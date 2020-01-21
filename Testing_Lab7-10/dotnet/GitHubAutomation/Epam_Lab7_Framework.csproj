@@ -11,11 +11,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Framework</RootNamespace>
     <AssemblyName>Framework</AssemblyName>
-<<<<<<< HEAD
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
-=======
-    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
->>>>>>> 897c223367cf0778ac7ea5d135c80743374718b9
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
